@@ -7,7 +7,7 @@
 // carLogger()//functionni chaqirilishi
 
 // const user = { name: "Nur" };
-// const userLogger = () => console.log("Logger user");
+// const userLogger = () => console.log("Logger user");//
 
 const userData = require("./user");
 const carData = require("./car");
